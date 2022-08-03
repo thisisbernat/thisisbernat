@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 This is Bernat, I'm a **web developer** 👨‍💻, **telecommunications engineer** 💡 and **bicycle rider** 🚴‍♂️ based in Barcelona. After recently finishing the web development bootcamp in [Ironhack](https://www.ironhack.com/), I'm currently looking to collaborate on projects centered on the MERN stack (MongoDB, Express, React.js and Node.js).
 
 ### Check out my personal projects:
-- Keyboard invaders 🕹️ - Typing game made in vanilla **JavaScript**.
-- Bicinyaps 🚲 - **Collaborative tool** to collect trouble spots of Barcelona's bike infrastructure.
-- InstantPoll 🗳️ - Quickly **create**, **configure**, and **share** polls and surveys.
+- [Keyboard invaders](https://github.com/thisisbernat/keyboard-invaders) 🕹️ - Typing game made in vanilla **JavaScript**.
+- [Bicinyaps](https://github.com/thisisbernat/bicinyaps) 🚲 - **Collaborative tool** to collect trouble spots of Barcelona's bike infrastructure.
+- [InstantPoll](https://github.com/thisisbernat/instantpoll-react-frontend) 🗳️ - Quickly **create**, **configure**, and **share** polls and surveys.
 
 ### You can contact me on:
-[[](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]
+[![](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bernatescarra/)
 [![](https://img.shields.io/badge/-Gmail-34A853?style=flat&logo=Gmail&logoColor=white)](mailto:bernat.escarra@gmail.com)
