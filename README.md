@@ -23,5 +23,5 @@ This is Bernat, I'm a **web developer** 👨‍💻, **telecommunications engine
 - InstantPoll 🗳️ - Quickly **create**, **configure**, and **share** polls and surveys.
 
 ### You can contact me on:
-[](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)
+[![](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]
 [![](https://img.shields.io/badge/-Gmail-34A853?style=flat&logo=Gmail&logoColor=white)](mailto:bernat.escarra@gmail.com)
