@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 
 I'm a **web developer** 👨‍💻, **telecommunications engineer** 💡 and **bicycle rider** 🚴‍♂️ based in Barcelona. After recently finishing the web development bootcamp at [Ironhack](https://www.ironhack.com/), I'm currently looking to collaborate on projects centered on the MERN stack (MongoDB, Express, React.js and Node.js).
 
-## Check out my personal projects:
+## Check out my personal projects
 - [Keyboard invaders](https://github.com/thisisbernat/keyboard-invaders) 🕹️ - Typing game made in vanilla **JavaScript**.
 - [Bicinyaps](https://github.com/thisisbernat/bicinyaps) 🚲 - **Collaborative tool** to collect trouble spots of Barcelona's bike infrastructure.
 - [InstantPoll](https://github.com/thisisbernat/instantpoll-react-frontend) 🗳️ - Quickly **create**, **configure**, and **share** polls and surveys.
 
-## Tech I'm working with:
+## Tech I'm working with
 <div align="center">
   <img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white' />
   <img alt='ReactJS' src='https://img.shields.io/badge/-ReactJS-51CBF2?style=for-the-badge&logo=react&logoColor=white' />
