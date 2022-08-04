@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I'm a **web developer** 👨‍💻, **telecommunications engineer** 💡 and **bicycle rider** 🚴‍♂️ based in Barcelona. After recently finishing the web development bootcamp at [Ironhack](https://www.ironhack.com/), I'm currently looking to collaborate on projects centered on the MERN stack (MongoDB, Express, React.js and Node.js).
 
 ## Check out my personal projects
-- [Keyboard invaders](https://github.com/thisisbernat/keyboard-invaders) 🕹️ - Typing game made in vanilla **JavaScript**.
+- [Keyboard invaders](https://github.com/thisisbernat/keyboard-invaders) 🕹️ - Typing game made with vanilla **JavaScript**.
 - [Bicinyaps](https://github.com/thisisbernat/bicinyaps) 🚲 - **Collaborative tool** to collect trouble spots of Barcelona's bike infrastructure.
 - [InstantPoll](https://github.com/thisisbernat/instantpoll-react-frontend) 🗳️ - Quickly **create**, **configure**, and **share** polls and surveys.
 
