@@ -25,7 +25,7 @@ I'm a **web developer** 👨‍💻, **telecommunications engineer** 💡 and **
 
 ## Tech I'm working with
 <div align="center">
-  <a href="#"><img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white' /></a>
+  <a href="#" cursor="default"><img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white' /></a>
   <a href="#"><img alt='ReactJS' src='https://img.shields.io/badge/-ReactJS-51CBF2?style=for-the-badge&logo=react&logoColor=white' /></a>
   <a href="#"><img alt='NodeJS' src='https://img.shields.io/badge/-NodeJs-339933?style=for-the-badge&logo=Nodedotjs&logoColor=white' /></a>
   <a href="#"><img alt='ExpressJS' src='http://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express&logoColor=white' /></a>
