@@ -36,3 +36,11 @@ I'm a **web developer** 👨‍💻, **telecommunications engineer** 💡 and **
   <img alt='Heroku' src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white' />
   <br/>
 </div>
+
+## What I'm currently learning
+<div align="center">
+  <img alt='TypeScript' src='https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white' />
+  <img alt='NextJS' src='http://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=nextdotjs&logoColor=white' />
+  <img alt='Jest' src='https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white' />
+  <br/>
+</div>
