@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 <h1>Hi there, this is Bernat 👋 <a href="https://www.linkedin.com/in/bernatescarra/" target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white' /></a> <a href="mailto:bernat.escarra@gmail.com" target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white' /></a></h1>
 
 
-I'm a **web developer** 👨‍💻, **telecommunications engineer** 💡 and **bicycle rider** 🚴‍♂️ based in Barcelona. After recently finishing the web development bootcamp at [Ironhack](https://www.ironhack.com/), I'm currently looking to collaborate on projects centered on the MERN stack (MongoDB, Express, React.js and Node.js).
+I'm a **web developer** 👨‍💻, **telecommunications engineer** 💡 and **bicycle rider** 🚴‍♂️ based in Barcelona. After recently finishing the web development bootcamp at [Ironhack](https://www.ironhack.com/), I'm currently looking to collaborate on projects centered on the JavaScript ecosystem: React, Next.js and Node.js.
 
 ## Check out my personal projects
 - [Keyboard invaders](https://github.com/thisisbernat/keyboard-invaders) 🕹️ - Typing game made with vanilla **JavaScript**.
-- [Bicinyaps](https://github.com/thisisbernat/bicinyaps) 🚲 - **Collaborative tool** to collect trouble spots of Barcelona's bike infrastructure.
-- [InstantPoll](https://github.com/thisisbernat/instantpoll-react-frontend) 🗳️ - Quickly **create**, **configure**, and **share** polls and surveys.
+- [Bicinyaps](https://github.com/thisisbernat/bicinyaps) 🚲 - **Collaborative tool** to collect trouble spots of Barcelona's bike infrastructure. (Node.js, Express & Handlebars).
+- [InstantPoll](https://github.com/thisisbernat/instantpoll-react-frontend) 🗳️ - Quickly **create**, **configure**, and **share** polls and surveys. (React app)
 
 ## Tech I'm working with
 <div align="center">
