@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 I'm a **web developer** 👨‍💻, **telecommunications engineer** 💡 and **bicycle rider** 🚴‍♂️ based in Barcelona. After recently finishing the web development bootcamp at [Ironhack](https://www.ironhack.com/), I'm currently looking to collaborate on projects centered on the JavaScript ecosystem: React, Next.js and Node.js.
 
 ## Check out my personal projects
-- [Keyboard invaders](https://github.com/thisisbernat/keyboard-invaders) 🕹️ - Typing game made with vanilla **JavaScript**.
+- [InstantPoll](https://github.com/thisisbernat/instantpoll-react-frontend) 🗳️ - Quickly **create**, **configure**, and **share** polls and surveys. (React app) - 2022 Ironhack's Hackshow Winner 🏆
 - [Bicinyaps](https://github.com/thisisbernat/bicinyaps) 🚲 - **Collaborative tool** to collect trouble spots of Barcelona's bike infrastructure. (Node.js, Express & Handlebars).
-- [InstantPoll](https://github.com/thisisbernat/instantpoll-react-frontend) 🗳️ - Quickly **create**, **configure**, and **share** polls and surveys. (React app)
+- [Keyboard invaders](https://github.com/thisisbernat/keyboard-invaders) 🕹️ - Typing game made with vanilla **JavaScript**.
+
 
 ## Tech I'm working with
 <div align="center">
