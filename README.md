@@ -29,12 +29,13 @@ I'm a **web developer** 👨‍💻, **telecommunications engineer** 💡 and **
   <a href="#"><img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white' /></a>
   <a href="#"><img alt='ReactJS' src='https://img.shields.io/badge/-ReactJS-51CBF2?style=for-the-badge&logo=react&logoColor=white' /></a>
   <a href="#"><img alt='NodeJS' src='https://img.shields.io/badge/-NodeJs-339933?style=for-the-badge&logo=Nodedotjs&logoColor=white' /></a>
-  <a href="#"><img alt='ExpressJS' src='http://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express&logoColor=white' /></a>
+  <a href="#"><img alt='ExpressJS' src='http://img.shields.io/badge/-Express-333333?style=for-the-badge&logo=express&logoColor=84CF2A' /></a>
   <a href="#"><img alt='MongoDB' src='http://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white' /></a>
   </br>
   <a href="#"><img alt='HTML5' src='https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' /></a>
   <a href="#"><img alt='CSS3' src='https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' /></a>
   <a href="#"><img alt='Heroku' src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white' /></a>
+  <a href="#"><img alt='Vercel' src='https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white' /></a>
   <br/>
 </div>
 
