@@ -42,9 +42,11 @@ I'm a **web developer** 👨‍💻, **telecommunications engineer** 💡 and **
   </br>
   <a href="#"><img alt='Vercel' src='https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white' /></a>
   <a href="#"><img alt='Heroku' src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white' /></a>
-  
-  
+  <br/>  
+</div>
+
+## What I'm currently learning
+<div align="center">
+  <img alt='GraphQL' src='https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white' />
   <br/>
-  
-  
 </div>
