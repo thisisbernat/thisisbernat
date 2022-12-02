@@ -41,12 +41,13 @@ I'm a **web developer** 👨‍💻, **telecommunications engineer** 💡 and **
   <a href="#"><img alt='Tailwind' src='https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white' /></a>
   </br>
   <a href="#"><img alt='Vercel' src='https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white' /></a>
-  <a href="#"><img alt='Heroku' src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white' /></a>
+<!--   <a href="#"><img alt='Heroku' src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white' /></a> -->
+  <a href="#"><img alt='GraphQL' src='https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white' /></a>
   <br/>  
 </div>
 
-## What I'm currently learning
+<!-- ## What I'm currently learning
 <div align="center">
   <img alt='GraphQL' src='https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white' />
   <br/>
-</div>
+</div> -->
