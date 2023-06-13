@@ -20,7 +20,6 @@ I'm a **web developer** 👨‍💻, **telecommunications engineer** 💡 and **
   </br>
   <a href="#"><img alt='HTML5' src='https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' /></a>
   <a href="#"><img alt='CSS3' src='https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' /></a>
-  <a href="#"><img alt='Vercel' src='https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white' /></a>
   <a href="#"><img alt='Vercel' src='https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white' /></a>
   <br/>  
 </div>
